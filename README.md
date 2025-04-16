@@ -10,23 +10,22 @@ Retrieve a list of subjects.
 Uses an in-memory SQLite database.
 
  Installation and Setup
-1️⃣ Install Node.js
+ Install Node.js
 Make sure you have Node.js installed.
 
-2️⃣ Clone or Download the Project
+ Clone or Download the Project
 sh
 
-git clone https://github.com/yourusername/cs421-api.git
+git clone https://github.com/COMPUTER VILLAGE TEC/cs421-api.git
 cd cs421-api
-3️⃣ Install Dependencies
+ Install Dependencies
 Run the following command to install required packages:
 
 sh
 
 npm install
-🚀Running the API Server
-Start the API by running:
-
+Running the API Server
+Start the API by running:h
 sh
 node server.js
 
